@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Locker</string>
+    <string name="str_require_permission">You need to enable the Admin Device Features</string>
+    <string name="str_require_permission_description">Additional text explaining why we need this permission</string>
+    <string name="str_permission_allowed">You have enabled the Admin Device features</string>
+    <string name="str_permission_disallowed">Problem to enable the Admin Device features</string>
+    <string name="str_permission_enabled">Admin Device features enable</string>
+    <string name="str_permission_disabled">Admin Device features disabled</string>
+    <string name="str_lock_the_phone">Lock the Phone</string>
+    <string name="str_enable">Enable</string>
+    <string name="str_disable">Disable</string>
+</resources>
